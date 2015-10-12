@@ -1,0 +1,8 @@
+---
+layout: default
+img: ipad.png
+category: Services
+title: Startup Support
+description: |
+---
+  If you have a great idea, but are new to product development, getting started can be laborious and full of pitfalls. The brrrilliant team will help you understand the nebulous startup roadmap and fast-track you to results.

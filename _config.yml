@@ -1,0 +1,29 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://yoursite.com
+title: brrrilliant 
+email: cb@brrrilliant.com
+author: Chereesca Bejasa
+description: > # "A consulting services and software development company for startups. Lean Startup product development, agile software development, mobile app iPhone and Android development. Advisory services.  Create a prototype. Shape the MVP. Engage users. Launch your app."
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/
+  - title: github
+    url: https://github.com/brrrilliant
+  - title: linkedin
+    url: https://linkedin.com/chereesca
