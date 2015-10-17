@@ -1,8 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: ipad.png
 category: Services
 title: Product Management
 description: |
 ---
-  You understand your idea, the business, even the functionality that you want to offer. You may have even created mock-ups for each screen of your app. And yet becoming a Lean Startup and UX expert, learning the ins-and-outs of tools of mobile and web apps, while also learning how to translate the ideas to be ready for software development will delay your product from getting launched. Let us help you move faster and with less risk by engaging our Product Management services.
+  You understand your idea, the business, even the functionality that you want to offer. You may have even created mock-ups for each screen of your app. And yet learning the mechanics and language of digital product development will delay your success. Let us help you move faster and with less risk by engaging our Product Management services.
