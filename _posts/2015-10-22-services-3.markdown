@@ -1,0 +1,8 @@
+---
+layout: default
+img: mac.png
+category: Services
+title: Develop Your Product <br> iOS. Android. PhoneGap. Web.
+description: |
+---
+  Whether you need a prototype to show investors, an MVP for early release, or are ready for your next phase of development, we are your trusted partners. As an entrepreneur, you need an expert team that will guide the process while building a quality product. You need a team that communicates, advises and delivers a solution that makes you say, "Now that's brrrilliant!"

@@ -1,0 +1,8 @@
+---
+layout: default
+img: ipad_lights.png
+category: Services
+title: Sanity-Check Your Idea
+description: |
+---
+   You have a great idea. You’re pretty sure it’s a winner. But now what? We here at brrrilliant will listen to your idea to see if it has legs. And if it's not quite there, we will help it grow some [legs]. We will assess whether your idea has linear or exponential growth potential, whether it can be tweaked to create high leverage of its value, and whether it will require a large amount of up-front capital before it delivers ROI. We will also advise you on how you might focus and optimize your efforts and minimize your MVP. <br>This is your starting point. This is time well spent.
