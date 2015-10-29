@@ -2,12 +2,10 @@ $(function() {
 
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
-        submitError: function($form, event, errors) {
-            window.alert("error");
+        submitError: function($form, event, errors) {            
             // additional error messages or events
         },
-        submitSuccess: function($form, event) {
-            window.alert("success");
+        submitSuccess: function($form, event) {            
             event.preventDefault(); // prevent default submit behaviour
             // get values from FORM
             var name = $("input#name").val();
