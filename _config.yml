@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://brrrilliant.com
+url: http://127.0.0.1:4000/
 title: brrrilliant 
 email: cb@brrrilliant.com
-author: Chereesca Bejasa
+author: Chereesca Bejasa and Julie Yaunches
 description: > # "A consulting services and software development company for startups. Lean Startup product development, agile software development, mobile app iPhone and Android development. Advisory services.  Create a prototype. Shape the MVP. Engage users. Launch your app."
 
 # ----------------------- #
