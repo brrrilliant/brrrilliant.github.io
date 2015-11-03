@@ -1,8 +1,0 @@
----
-layout: default
-img: phones.png
-category: Services
-title: CTO Services
-description: |
----
-   What technologies are best for your business? What has to be done now and what can be put off until later? How will you transition from the bootstrapping stage to an established startup with in-house developers? <br> <br> Even with developers on board, it's important to have someone looking at the big picture. Let us be your partners in success.

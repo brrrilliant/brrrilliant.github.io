@@ -5,4 +5,4 @@ category: Services
 title: Shape Your Product
 description: |
 ---
-  You understand your idea, the business, even the functionality that you want to offer. You may have even created mock-ups for each screen of your app. This is the norm for entrepreneurs to be steeped in the functionality of their offering. We have found time and again that entrepreneurs overspend on bells and whistles with their first launch, yet miss the critical evaluation of the value and growth hypotheses, and the metrics that pinpoint the issues.  Engage us to shape your product evolution path. Engage us to create and launch a successful product.
+  You understand your idea, the business, even the functionality that you want to offer. You may have even created mock-ups for each screen of your app. This is the norm for entrepreneurs to be steeped in the functionality of their offering. We have found time and again that entrepreneurs overspend on bells and whistles, yet miss the critical evaluation of the value and growth hypotheses, and the metrics that pinpoint the issues.  Engage us to shape your product evolution path. Engage us to create and launch a successful product.
