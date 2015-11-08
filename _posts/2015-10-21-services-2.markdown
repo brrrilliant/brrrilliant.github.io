@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones_PM.png
+img: mac_metrics.png
 category: Services
 title: Shape Your Product
 description: |

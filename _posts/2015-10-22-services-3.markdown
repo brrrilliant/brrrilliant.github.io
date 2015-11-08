@@ -1,6 +1,6 @@
 ---
 layout: default
-img: mac.png
+img: ipad_coding.png
 category: Services
 title: Start Developing <br> iOS. Android. PhoneGap. Web.
 description: |
