@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones_idea2.png
+img: ipad_lights.png
 category: Services
 title: Sanity-Check Your Idea
 description: |
