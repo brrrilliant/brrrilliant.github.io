@@ -1,6 +1,6 @@
 ---
 layout: default
-img: samsung_tablet.png
+img: samsung.png
 category: Services
 title: Start Developing <br> iOS. Android. PhoneGap. Web.
 description: |
